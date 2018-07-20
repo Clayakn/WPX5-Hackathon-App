@@ -61,7 +61,7 @@ Click here to view the [Pokeapi Website](https://pokeapi.co)
 
 - 30 pts for doing this (in one way or another) with the star wars API. 
 
-- 5 pts for not being Ali or Drew.
+- 10 pts for not being in WPX5.
 
 
 ### Good Luck!
