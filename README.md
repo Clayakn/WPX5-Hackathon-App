@@ -6,6 +6,11 @@
 
 Create an App using create-react-app that resembles the images above.
 
+Click here to view the [Pokeapi Website](https://pokeapi.co)
+
+## Instructions
+
+
 ### Challenges
 
 - Include three views:
@@ -25,6 +30,7 @@ Create an App using create-react-app that resembles the images above.
 - Search
     - This page should show the appropriate Pokemon based on search.
     - When the user clicks on the name or the image it should route them to the details page of that pokemon.
+    - User should be able to search by type and pokemon name. `(Ex: 'pokeapi.co/api/v2/pokemon/bulbasaur' or 'pokeapi.co/api/v2/type/fire')`
 
 - Details
 
@@ -43,15 +49,15 @@ Create an App using create-react-app that resembles the images above.
 
 - 10 pts for showing a random pokemon when search page mounts.
 
-- 10 pts per route
-
-- 10 pts per category of information on the details page.
-
-- 20 pts for the first person that reads down this far AND tells Brent that **he is the man**.
-
 - 10 pts for each additional API used outside of `pokeapi.co`
 
-- 10 pts for changing text color based on type.
+- 10 pts per route
+
+- 15 pts per category of information on the details page.
+
+- 20 pts for including the pokemon themesong on your site.
+
+- 15 pts for changing text color based on type.
 
 - 30 pts for doing this (in one way or another) with the star wars API. 
 
